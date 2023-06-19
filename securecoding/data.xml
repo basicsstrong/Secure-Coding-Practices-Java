@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.6.0_02" class="java.beans.XMLDecoder">
+  <object class="com.basicsstrong.securecoding.Person" method="new">
+    <void property="name">
+      <string>John</string>
+    </void>
+    <void property="age">
+      <int>30</int>
+    </void>
+  </object>
+</java>
